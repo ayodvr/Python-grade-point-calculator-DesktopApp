@@ -1,4 +1,4 @@
-# Tkinter grade point calculator Desktop App
+# Tkinter grade point calculator Desktop App (Executable)
  A simple python program for calculating students grade point.
 
 Clone the repository
